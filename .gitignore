@@ -1,0 +1,6 @@
+Sample/obj
+Sample/bin
+Wsl.NET/obj
+Wsl.NET/bin
+.vs
+Sample/WslGUI.csproj.user
